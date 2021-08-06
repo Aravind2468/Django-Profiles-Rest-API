@@ -1,3 +1,3 @@
 # Profiles Rest API
 
-Django Profiles api course
+Django Profiles api 
